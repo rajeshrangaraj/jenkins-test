@@ -1,1 +1,1 @@
-echo "Welcome 1"
+echo "Build Success!"
